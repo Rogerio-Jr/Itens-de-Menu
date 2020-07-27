@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/id_1"
+        android:title="Fixo"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_save_black_24dp"
+        />
+
+    <item
+        android:id="@+id/id_2"
+        android:title="Configurações"
+        app:showAsAction="never"
+        android:orderInCategory="200"
+        />
+    <item
+        android:id="@+id/id_3"
+        android:title="Sobre"
+        app:showAsAction="never"
+        android:orderInCategory="300"
+        />
+
+</menu>
