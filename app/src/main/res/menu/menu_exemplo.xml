@@ -8,7 +8,7 @@
         android:title="Fixo"
         app:showAsAction="always"
         android:orderInCategory="100"
-        android:icon="@drawable/ic_save_black_24dp"
+        android:icon="@drawable/ic_send_black_24dp"
         />
 
     <item
